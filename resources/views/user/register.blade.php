@@ -27,7 +27,7 @@
                                <input type="password" name="password" class="form-control rounded-pill" placeholder="Enter Email">
                              </div>
 
-                            <button class="btn btn-secondary">Login</button>
+                            <button class="btn btn-secondary">Register</button>
                         </form> 
                     </div>
                 </div>
